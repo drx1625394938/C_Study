@@ -1,0 +1,4 @@
+﻿  test1.cpp
+D:\C_Project\6.21_类型储存\6.21_类型储存\test1.cpp(7,14): warning C4305: “=”: 从“int”到“char”截断
+D:\C_Project\6.21_类型储存\6.21_类型储存\test1.cpp(7,9): warning C4309: “=”: 截断常量值
+  6.21_类型储存.vcxproj -> D:\C_Project\6.21_类型储存\Debug\6.21_类型储存.exe

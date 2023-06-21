@@ -1,0 +1,4 @@
+﻿  Struct.cpp
+D:\C_Project\Struct\Struct\Struct.cpp(20,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C_Project\Struct\Struct\Struct.cpp(20,9): message : 请考虑在格式字符串中使用“%zu”
+  Struct.vcxproj -> D:\C_Project\Struct\x64\Debug\Struct.exe

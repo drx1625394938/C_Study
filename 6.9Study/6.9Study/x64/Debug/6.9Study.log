@@ -1,0 +1,6 @@
+﻿  ThirdHomework.cpp
+D:\C_Project\6.9Study\6.9Study\ThirdHomework.cpp(22,17): warning C4474: printf: 格式字符串中传递的参数太多
+D:\C_Project\6.9Study\6.9Study\ThirdHomework.cpp(22,17): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\C_Project\6.9Study\6.9Study\ThirdHomework.cpp(159,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C_Project\6.9Study\6.9Study\ThirdHomework.cpp(162,15): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\C_Project\6.9Study\6.9Study\ThirdHomework.cpp(35): fatal  error C1075: “{”: 未找到匹配令牌
