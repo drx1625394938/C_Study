@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.22_DataStorage", "6.22_DataStorage\6.22_DataStorage.vcxproj", "{BABE5B18-52C2-44BF-BA4B-7B4388EA09EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABE5B18-52C2-44BF-BA4B-7B4388EA09EC}.Debug|x64.ActiveCfg = Debug|x64
+		{BABE5B18-52C2-44BF-BA4B-7B4388EA09EC}.Debug|x64.Build.0 = Debug|x64
+		{BABE5B18-52C2-44BF-BA4B-7B4388EA09EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BABE5B18-52C2-44BF-BA4B-7B4388EA09EC}.Debug|x86.Build.0 = Debug|Win32
+		{BABE5B18-52C2-44BF-BA4B-7B4388EA09EC}.Release|x64.ActiveCfg = Release|x64
+		{BABE5B18-52C2-44BF-BA4B-7B4388EA09EC}.Release|x64.Build.0 = Release|x64
+		{BABE5B18-52C2-44BF-BA4B-7B4388EA09EC}.Release|x86.ActiveCfg = Release|Win32
+		{BABE5B18-52C2-44BF-BA4B-7B4388EA09EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCB40381-B382-4F7C-9CFE-FE94EB5015EC}
+	EndGlobalSection
+EndGlobal
